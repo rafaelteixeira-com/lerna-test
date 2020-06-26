@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@rafae1-lerna/hello-world": "^0.0.1"
-  }
+  },
+  "gitHead": "907ae9958a68b814fe443d72e8f075239ae76ffd"
 }

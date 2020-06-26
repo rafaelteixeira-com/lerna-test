@@ -1,6 +1,6 @@
 {
   "name": "@rafae1-lerna/hello-world",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,5 +8,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "gitHead": "907ae9958a68b814fe443d72e8f075239ae76ffd"
 }
