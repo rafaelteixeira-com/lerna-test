@@ -1,6 +1,6 @@
 {
   "name": "@rafae1-lerna/hello-world",
-  "version": "0.2.1",
+  "version": "0.0.2",
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
