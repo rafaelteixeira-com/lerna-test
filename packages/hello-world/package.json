@@ -1,12 +1,12 @@
 {
-  "name": "@rafae1/hello-world",
+  "name": "@rafae1-lerna/hello-world",
   "version": "0.0.1",
-  "description": "",
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
